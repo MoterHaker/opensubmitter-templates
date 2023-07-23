@@ -1,3 +1,13 @@
 {
-    "list": []
+    "list": [
+        {
+            "id": 4,
+            "path": "Utilities/Proxy_Checker_from_MoterHaker.ts",
+            "name": "Proxy Checker from MoterHaker",
+            "description": "This template checks a proxy list and writes checked proxies into a file. Checking is done by downloading a specified URL address and checking if the control string is present.",
+            "icon": "https://opensubmitter.com/images/default_template_icon.png",
+            "category": "Utilities",
+            "created": "2023-07-22T06:16:25"
+        }
+    ]
 }
