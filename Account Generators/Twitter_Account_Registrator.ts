@@ -76,7 +76,8 @@ class Template implements OpenSubmitterTemplateProtocol {
         ],
 
         email: 'dev@captcha.pub',
-        rewardTronAddress: 'TGVF1UKmU2iJToW3Lv3pJ3VqrdT2Bq7yvq'
+        rewardTronAddress: 'TGVF1UKmU2iJToW3Lv3pJ3VqrdT2Bq7yvq',
+        icon: 'https://c0.lestechnophiles.com/c.clc2l.com/c/thumbnail256webp/t/t/w/twitter-MAWXNC.png'
     };
 
     // Dummy variable, will be overridden by OpenSubmitter with Puppeteer's page object
