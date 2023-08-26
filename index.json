@@ -14,9 +14,9 @@
             "path": "Account Generators/Twitter_Account_Registrator.ts",
             "name": "Twitter Account Registrator",
             "description": "Registers accounts with email confirmation. Requires list of emails and IMAP server credentials, as well as proxies. Output is a JSON file with twitter name, email, twitter password, used proxies and collected cookies.",
-            "icon": "https://opensubmitter.com/images/default_template_icon.png",
+            "icon": "https://c0.lestechnophiles.com/c.clc2l.com/c/thumbnail256webp/t/t/w/twitter-MAWXNC.png",
             "category": "Account Generators",
-            "created": "2023-08-23T09:40:16"
+            "created": "2023-08-26T05:06:01"
         }
     ]
 }
