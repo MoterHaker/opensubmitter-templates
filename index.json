@@ -17,6 +17,15 @@
             "icon": "https://c0.lestechnophiles.com/c.clc2l.com/c/thumbnail256webp/t/t/w/twitter-MAWXNC.png",
             "category": "Account Generators",
             "created": "2023-08-26T05:06:01"
+        },
+        {
+            "id": 8,
+            "path": "Scrapers/Bing_SERP_Parser_puppeteer.ts",
+            "name": "Bing SERP Parser (puppeteer)",
+            "description": "Opens bing and based on provided: keywords and page number, collects data (urls, link anchors, text snippets, position numbers, list of related keywords);\n        moreover based on provided depth level will recursively collect data for all the subsequent related keywords,\n        works with puppeteer-chromium in headless mode and writes the results in a single file output file",
+            "icon": "https://opensubmitter.com/images/default_template_icon.png",
+            "category": "Scrapers",
+            "created": "2023-09-03T12:16:37"
         }
     ]
 }
