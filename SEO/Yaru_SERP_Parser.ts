@@ -115,7 +115,8 @@ class Template implements OpenSubmitterTemplateProtocol {
             }
         ],
 
-        email: 'dev@opensubmitter.com'
+        email: 'dev@opensubmitter.com',
+        icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2q5u0-OK_FTVQhs4F3Ml5Fsy9b-BOkaASH6H4CHs52EGfTHWJvlAgmgv6PD3fSaaSE1A&usqp=CAU'
     };
 
     // Dummy variable, will be overridden by OpenSubmitter with Puppeteer's page object
