@@ -43,8 +43,9 @@ class Template implements OpenSubmitterTemplateProtocol {
         description: `Opens bing and based on provided: keywords and page number, collects data (urls, link anchors, text snippets, position numbers, list of related keywords);
         moreover based on provided depth level will recursively collect data for all the subsequent related keywords,
         works with puppeteer-chromium in headless mode and writes the results in a single file output file`,
+
+        icon: 'https://cdn.icon-icons.com/icons2/2429/PNG/512/bing_logo_icon_147313.png',
         email: 'dev@opensubmitter.com',
-        rewardTronAddress: 'TPNnu4Wc5dUtpVt5dpQce32WnTrd4P5555',
 
         // Based on this setting, OpenSubmitter will inject Puppeteer's page object into this template
         capabilities: ['puppeteer'],
@@ -65,9 +66,9 @@ class Template implements OpenSubmitterTemplateProtocol {
             {
                 type: 'Checkbox',
                 name: 'alsoSearchedFor',
-                title: 'People also searched for',
+                title: 'Recursive search via "People also searched for"',
                 value: false,
-                uiWidth: 50,
+                uiWidth: 100,
             },
             {
                 type: 'TextInput',
