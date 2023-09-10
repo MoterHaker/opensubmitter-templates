@@ -35,6 +35,15 @@
             "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2q5u0-OK_FTVQhs4F3Ml5Fsy9b-BOkaASH6H4CHs52EGfTHWJvlAgmgv6PD3fSaaSE1A&usqp=CAU",
             "category": "SEO",
             "created": "2023-09-09T08:59:44"
+        },
+        {
+            "id": 11,
+            "path": "Scrapers/Youtube_Comment_Exporter.ts",
+            "name": "Youtube Comment Exporter",
+            "description": "This template extracts Youtube comments of a given video URLs into CSV, SQL, JSON or MongoDB file",
+            "icon": "https://img.freepik.com/premium-vector/youtube-logo-circle-red-social-media-logo_197792-4982.jpg",
+            "category": "Scrapers",
+            "created": "2023-09-10T05:43:22"
         }
     ]
 }
