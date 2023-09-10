@@ -20,11 +20,11 @@
         },
         {
             "id": 8,
-            "path": "Scrapers/Bing_SERP_Parser_puppeteer.ts",
+            "path": "SEO/Bing_SERP_Parser_puppeteer.ts",
             "name": "Bing SERP Parser (puppeteer)",
             "description": "Opens bing and based on provided: keywords and page number, collects data (urls, link anchors, text snippets, position numbers, list of related keywords);\n        moreover based on provided depth level will recursively collect data for all the subsequent related keywords,\n        works with puppeteer-chromium in headless mode and writes the results in a single file output file",
             "icon": "https://cdn.icon-icons.com/icons2/2429/PNG/512/bing_logo_icon_147313.png",
-            "category": "Scrapers",
+            "category": "SEO",
             "created": "2023-09-09T09:07:26"
         },
         {
