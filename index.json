@@ -35,6 +35,15 @@
             "icon": "https://opensubmitter.com/images/default_template_icon.png",
             "category": "Utilities",
             "created": "2024-02-16T06:24:17"
+        },
+        {
+            "id": 5,
+            "path": "Scrapers/Youtube_Comment_Exporter.ts",
+            "name": "Youtube Comment Exporter",
+            "description": "This template extracts Youtube comments of a given video URLs into CSV, SQL, JSON or MongoDB file",
+            "icon": "https://img.freepik.com/premium-vector/youtube-logo-circle-red-social-media-logo_197792-4982.jpg",
+            "category": "Scrapers",
+            "created": "2024-02-16T06:24:34"
         }
     ]
 }
