@@ -8,6 +8,15 @@
             "icon": "https://c0.lestechnophiles.com/c.clc2l.com/c/thumbnail256webp/t/t/w/twitter-MAWXNC.png",
             "category": "Account Generators",
             "created": "2024-02-16T06:23:28"
+        },
+        {
+            "id": 2,
+            "path": "SEO/Yaru_SERP_Parser.ts",
+            "name": "Ya.ru SERP Parser",
+            "description": "Open ya.ru and based on provided keywords, collect data (urls, link anchors, text snippets, position numbers, list of related keywords)\n        with puppeteer-chromium in headless mode and write the results in a single file output file. Bypass click-captcha if met by taking it's screenshots, sending to Anti-Captcha and clicking on resulting points.",
+            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2q5u0-OK_FTVQhs4F3Ml5Fsy9b-BOkaASH6H4CHs52EGfTHWJvlAgmgv6PD3fSaaSE1A&usqp=CAU",
+            "category": "SEO",
+            "created": "2024-02-16T06:23:49"
         }
     ]
 }
