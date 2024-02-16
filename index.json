@@ -26,6 +26,15 @@
             "icon": "https://cdn.icon-icons.com/icons2/2429/PNG/512/bing_logo_icon_147313.png",
             "category": "SEO",
             "created": "2024-02-16T06:24:01"
+        },
+        {
+            "id": 4,
+            "path": "Utilities/Proxy_Checker_from_MoterHaker.ts",
+            "name": "Proxy Checker from MoterHaker",
+            "description": "This template checks a proxy list and writes checked proxies into a file. Checking is done by downloading a specified URL address and checking if the control string is present.",
+            "icon": "https://opensubmitter.com/images/default_template_icon.png",
+            "category": "Utilities",
+            "created": "2024-02-16T06:24:17"
         }
     ]
 }
