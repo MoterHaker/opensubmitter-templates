@@ -1,49 +1,13 @@
 {
     "list": [
         {
-            "id": 4,
-            "path": "Utilities/Proxy_Checker_from_MoterHaker.ts",
-            "name": "Proxy Checker from MoterHaker",
-            "description": "This template checks a proxy list and writes checked proxies into a file. Checking is done by downloading a specified URL address and checking if the control string is present.",
-            "icon": "https://opensubmitter.com/images/default_template_icon.png",
-            "category": "Utilities",
-            "created": "2023-07-22T06:16:25"
-        },
-        {
-            "id": 6,
+            "id": 1,
             "path": "Account Generators/Twitter_Account_Registrator.ts",
             "name": "Twitter Account Registrator",
             "description": "Registers accounts with email confirmation. Requires list of emails and IMAP server credentials, as well as proxies. Output is a JSON file with twitter name, email, twitter password, used proxies and collected cookies.",
             "icon": "https://c0.lestechnophiles.com/c.clc2l.com/c/thumbnail256webp/t/t/w/twitter-MAWXNC.png",
             "category": "Account Generators",
-            "created": "2023-08-26T05:06:01"
-        },
-        {
-            "id": 8,
-            "path": "SEO/Bing_SERP_Parser_puppeteer.ts",
-            "name": "Bing SERP Parser (puppeteer)",
-            "description": "Opens bing and based on provided: keywords and page number, collects data (urls, link anchors, text snippets, position numbers, list of related keywords);\n        moreover based on provided depth level will recursively collect data for all the subsequent related keywords,\n        works with puppeteer-chromium in headless mode and writes the results in a single file output file",
-            "icon": "https://cdn.icon-icons.com/icons2/2429/PNG/512/bing_logo_icon_147313.png",
-            "category": "SEO",
-            "created": "2023-09-09T09:07:26"
-        },
-        {
-            "id": 10,
-            "path": "SEO/Yaru_SERP_Parser.ts",
-            "name": "Ya.ru SERP Parser",
-            "description": "Open ya.ru and based on provided keywords, collect data (urls, link anchors, text snippets, position numbers, list of related keywords)\n        with puppeteer-chromium in headless mode and write the results in a single file output file. Bypass click-captcha if met by taking it's screenshots, sending to Anti-Captcha and clicking on resulting points.",
-            "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2q5u0-OK_FTVQhs4F3Ml5Fsy9b-BOkaASH6H4CHs52EGfTHWJvlAgmgv6PD3fSaaSE1A&usqp=CAU",
-            "category": "SEO",
-            "created": "2023-09-09T08:59:44"
-        },
-        {
-            "id": 11,
-            "path": "Scrapers/Youtube_Comment_Exporter.ts",
-            "name": "Youtube Comment Exporter",
-            "description": "This template extracts Youtube comments of a given video URLs into CSV, SQL, JSON or MongoDB file",
-            "icon": "https://img.freepik.com/premium-vector/youtube-logo-circle-red-social-media-logo_197792-4982.jpg",
-            "category": "Scrapers",
-            "created": "2023-09-10T05:43:22"
+            "created": "2024-02-16T06:23:28"
         }
     ]
 }
